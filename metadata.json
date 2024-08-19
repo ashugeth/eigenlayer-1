@@ -2,6 +2,6 @@
   "name": "RN Operator",
   "website": "https://example.com",
   "description": "I operate on some data",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/ashugeth/eigenlayer-1/main/Abs.png",
   "twitter": "https://x.com/ashugeth"
 }
